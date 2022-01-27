@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--flowcharting-->
+<!--home page-->
 <html lang="en">
 <title>Brooklyn Wakefield's Digital Portfolio</title>
 <meta charset="UTF-8">
@@ -41,7 +41,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">AOIT 2 <i class="fa fa-caret-down"></i></button>     
       <div class="w3-dropdown-content w3-bar-block w3-card-4">
-        <a href="flowcharting.html" class="w3-bar-item w3-button">Flow Chart</a>
+        <a href="flowcharting.html" class="w3-bar-item w3-button">Flowcharting</a>
         <a href="cplusplus.html" class="w3-bar-item w3-button">C++</a>
         <a href="javascript.html" class="w3-bar-item w3-button">JavaScript</a>
 		<a href="applab.html" class="w3-bar-item w3-button">App Lab</a>
@@ -103,23 +103,33 @@ body {font-family: "Lato", sans-serif}
 
 
 
+
+
+
+  <!-- The body Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">Flowing Charting</h2>
-    <p class="w3-opacity"><i>AOIT 2</i></p>
-    <p class="w3-center">Flowcharting was the first subject we were introduced to in AOIT 2. The point of making flowcharts was
-to build our understanding of this method
-before moving into coding in C++. Flowcharts use special shapes to represent different types of actions or steps in a process. Lines and arrows show the sequence of the steps, and the relationships among them. This flowchart
-is replicating the behaviour of a register. </p>
-    </div>   
-   <table class="centerTable">
-	<tr>
-	<td>
+    <h2 class="w3-wide">Video Tutorial</h2>
+    <p class="w3-opacity"><i>AOIT 3</i></p>
+    <p class="w3-justify">Each quarter I was tasked with creating a 5 minute minimum video tutorial. THe topic of the videos could be anything related to your project. For me that was the creation of my website made in HTML, so my videos consist of different HTML subjects I used when creating my website.</p>
+</div>
 
+	   <table class="centerTable">
+<td>
+	<center><p>Quarter 1</p></center>
+<iframe src="https://drive.google.com/file/d/1TkuiHnR7DT1IQxiTjy0qkT3lkxngNOp5/preview" width="740" height="480" allow="autoplay"></iframe>
 
-        <center><p>Flowchart</p></center>
-        <embed src="flowchart.pdf" width="800px" height="900px" />
+<br>
+	<center><p>Quarter 2</p></center>
+<iframe src="https://drive.google.com/file/d/1bQZ-KU5e4kGwIrv-YNj9E06pcVFCz1Qo/preview" width="740" height="480" allow="autoplay"></iframe>
+<br>
+	<center><p>Quarter 3</p></center>
+	<iframe src="https://drive.google.com/file/d/1Hh-HTzaT7Kq29wMmlAkJjDd8ZFHuaq6K/preview" width="740" height="480" allow="autoplay"></iframe>
+<br>
+	<center><p>Quarter 4</p></center>
+	<iframe src="https://drive.google.com/file/d/1rNDMO1e7jtSmbP6e7wVAz8BHuEnRQOjz/preview" width="740" height="480" allow="autoplay"></iframe>
 </td>
-
- 
-     </tr>
+	    
 	 </table>
+
+</body>
+</html>

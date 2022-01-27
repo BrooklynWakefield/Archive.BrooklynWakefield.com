@@ -105,7 +105,7 @@ body {font-family: "Lato", sans-serif}
 
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
-<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:0px">
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:100px">
         
 <b><u><p class="w3-bar-item w3-button w3-padding-large" title="More">AOIT 1 </p></u></b>     
         <a href="word.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Word</a>

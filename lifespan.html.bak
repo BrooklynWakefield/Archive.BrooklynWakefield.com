@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--flowcharting-->
+<!--home page-->
 <html lang="en">
 <title>Brooklyn Wakefield's Digital Portfolio</title>
 <meta charset="UTF-8">
@@ -41,7 +41,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">AOIT 2 <i class="fa fa-caret-down"></i></button>     
       <div class="w3-dropdown-content w3-bar-block w3-card-4">
-        <a href="flowcharting.html" class="w3-bar-item w3-button">Flow Chart</a>
+        <a href="flowcharting.html" class="w3-bar-item w3-button">Flowcharting</a>
         <a href="cplusplus.html" class="w3-bar-item w3-button">C++</a>
         <a href="javascript.html" class="w3-bar-item w3-button">JavaScript</a>
 		<a href="applab.html" class="w3-bar-item w3-button">App Lab</a>
@@ -103,23 +103,41 @@ body {font-family: "Lato", sans-serif}
 
 
 
+
+  <!-- The body Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">Flowing Charting</h2>
-    <p class="w3-opacity"><i>AOIT 2</i></p>
-    <p class="w3-center">Flowcharting was the first subject we were introduced to in AOIT 2. The point of making flowcharts was
-to build our understanding of this method
-before moving into coding in C++. Flowcharts use special shapes to represent different types of actions or steps in a process. Lines and arrows show the sequence of the steps, and the relationships among them. This flowchart
-is replicating the behaviour of a register. </p>
-    </div>   
-   <table class="centerTable">
-	<tr>
+    <h2 class="w3-wide">LifeSpan Medical - Skills for Rhode Island's Future Internship </h2>
+    <p class="w3-opacity"><i>June 2020 - August 2020</i></p>
+    <p class="w3-justify"> I collaborated with staff at Lifespan partnered hospitals to come up
+with practical solutions to address hospital safety during the COVID-19
+pandemic. At my team's start-up Bridge to Care, I worked with my department to create virtual renderings for COVID-19 safe hospital rooms using CAD, as well as a prototype patient visitation
+registration app. The patient visitation registration app was to help hospitals keep track of the flow of visitors coming in and out of spaces and provide COVID-19 testing questions to help ensure the safety of patients and staff.</p>
+</div>
+
+<br>
+	<br>
+		<br>
+
+	   <table class="centerTable">
+	<tr align="center">
 	<td>
 
 
-        <center><p>Flowchart</p></center>
-        <embed src="flowchart.pdf" width="800px" height="900px" />
-</td>
 
- 
+        <embed src="lifespan1.PNG" width="500px" height="300px" />
+</td>
+<td>
+       
+
+        <embed src="lifespan2.PNG" width="700px" height="400px" />
+		</td>
+
+	 
      </tr>
-	 </table>
+ </table>
+ 
+
+
+</body>
+</html>
+
