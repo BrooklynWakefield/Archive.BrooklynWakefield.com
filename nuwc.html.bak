@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--24lemons-->
+<!--home page-->
 <html lang="en">
 <title>Brooklyn Wakefield's Digital Portfolio</title>
 <meta charset="UTF-8">
@@ -104,37 +104,41 @@ body {font-family: "Lato", sans-serif}
 
 
 
+
+
+
+
+  <!-- The body Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">24 Hours of Lemons</h2>
-    <p class="w3-opacity"><i>2021 - Present</i></p>
-    <p class="w3-center">Joining the Olin 24 Hours of Lemons Team was not the traditional experience students get on an Olin project team. Unlike many of Olin's well-established and funded clubs, the Lemons team is a newly established club with a small group of people with shared interests in working with vehicles. My first experience with Lemons was being tasked with completely gutting a Volkswagon golf to get it ready to race, and I later learned how to do an oil change. As someone who came in knowing little about cars, Lemon's hands-on and informal setting allows for me to learn more about vehicles in a collaborative and welcoming environment while also having fun. 
-	    
+    <h2 class="w3-wide">NUWC - Undersea Technology Apprentice Program</h2>
+    <p class="w3-opacity"><i>July 2019</i></p>
+    <p class="w3-justify"> This was a three-week paid internship program in underwater robotics sponsored by Division Newport’s Naval Undersea Warfare Center known as the Undersea Technology Apprentice Program. I studied alongside NUWC scientists and engineers in the undersea testing center. I was able to work with advanced technology such as underwater sonar, camera
+imagery, and live video feed to discover how future naval prototypes can best study the ocean when considering environmental factors. I developed underwater ROVs to function at deep depths with high pressure. The fabrication process included the use of circuits and
+coding of a Raspberry Pi for the control system and outer motors.
 	    <br>
-		 <br>
-The lemons team is currently working with the Olin administration to fit the club into the guidelines for project teams set forward by the school. While working towards establishing Lemons as an official Olin Club, I created a mockup website shown below. </p>
-    </div>   
-
-
-
-
-<br>
-	<br>
-		<br>
+	  
+	    <br>
+<a href="https://www.dvidshub.net/news/336587/high-school-students-show-their-skills-undersea-vehicle-competition-nuwc-division-newport">More information can be found here.</a>  </p>
+</div>
 
 	   <table class="centerTable">
 	<tr align="center">
 	<td>
 
 
-<center><p>Click picture below to view</p></center>
-        <a href="https://sites.google.com/view/olin-lemons/home" target="_blank" class="w3-bar-item w3-button"><embed src="24lemons1.png" width="800px" height="450px" />
 
+        <embed src="utap1.jpeg" width="350px" height="230px" />
 </td>
+<td>
+       
+
+        <embed src="utap2.jpeg" width="400px" height="230px" />
+		</td>
 
 	 
      </tr>
  </table>
-
+ 
 
 
 </body>

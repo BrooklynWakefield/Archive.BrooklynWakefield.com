@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--24lemons-->
+<!--DBF-->
 <html lang="en">
 <title>Brooklyn Wakefield's Digital Portfolio</title>
 <meta charset="UTF-8">
@@ -105,13 +105,9 @@ body {font-family: "Lato", sans-serif}
 
 
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">24 Hours of Lemons</h2>
+    <h2 class="w3-wide">Olin Design Build Fly</h2>
     <p class="w3-opacity"><i>2021 - Present</i></p>
-    <p class="w3-center">Joining the Olin 24 Hours of Lemons Team was not the traditional experience students get on an Olin project team. Unlike many of Olin's well-established and funded clubs, the Lemons team is a newly established club with a small group of people with shared interests in working with vehicles. My first experience with Lemons was being tasked with completely gutting a Volkswagon golf to get it ready to race, and I later learned how to do an oil change. As someone who came in knowing little about cars, Lemon's hands-on and informal setting allows for me to learn more about vehicles in a collaborative and welcoming environment while also having fun. 
-	    
-	    <br>
-		 <br>
-The lemons team is currently working with the Olin administration to fit the club into the guidelines for project teams set forward by the school. While working towards establishing Lemons as an official Olin Club, I created a mockup website shown below. </p>
+    <p class="w3-center"> Olin Design Build Fly has different subteams: structures, telemetry, electrical, and aerospace. To start my first semester I joined the aerospace subteam, as a member of that group I did calculations on the best way to design the RC aircraft to ensure maximum speed and lift while also decreasing the chances of stalling. One of our main focuses was airfoils and creating the perfect wing shape to be responsive, fast, and stable enough to support the plane's engines and its cargo. The go-to method for our subteam to approach advanced mathematical equations is to input data into AVL - which simulates the testing of aircraft. The Aero subteam plans to have all necessary equations done by the end of the semester, after which everyone will join different subteams and the team will reconvene when necessary, for the future I plan to join the structures subteam. </p>
     </div>   
 
 
@@ -126,10 +122,14 @@ The lemons team is currently working with the Olin administration to fit the clu
 	<td>
 
 
-<center><p>Click picture below to view</p></center>
-        <a href="https://sites.google.com/view/olin-lemons/home" target="_blank" class="w3-bar-item w3-button"><embed src="24lemons1.png" width="800px" height="450px" />
-
+<center><p>AVL Simulation</p></center>
+        <embed src="dbf1.jpeg" width="700px" height="450px" />
 </td>
+<td>
+       
+<center><p>Test Flight</p></center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ViJucIMlaWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</td>
 
 	 
      </tr>

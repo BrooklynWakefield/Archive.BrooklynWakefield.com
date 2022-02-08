@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--24lemons-->
+<!--home page-->
 <html lang="en">
 <title>Brooklyn Wakefield's Digital Portfolio</title>
 <meta charset="UTF-8">
@@ -104,38 +104,41 @@ body {font-family: "Lato", sans-serif}
 
 
 
+
+  <!-- The body Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">24 Hours of Lemons</h2>
-    <p class="w3-opacity"><i>2021 - Present</i></p>
-    <p class="w3-center">Joining the Olin 24 Hours of Lemons Team was not the traditional experience students get on an Olin project team. Unlike many of Olin's well-established and funded clubs, the Lemons team is a newly established club with a small group of people with shared interests in working with vehicles. My first experience with Lemons was being tasked with completely gutting a Volkswagon golf to get it ready to race, and I later learned how to do an oil change. As someone who came in knowing little about cars, Lemon's hands-on and informal setting allows for me to learn more about vehicles in a collaborative and welcoming environment while also having fun. 
-	    
-	    <br>
-		 <br>
-The lemons team is currently working with the Olin administration to fit the club into the guidelines for project teams set forward by the school. While working towards establishing Lemons as an official Olin Club, I created a mockup website shown below. </p>
-    </div>   
-
-
-
-
-<br>
-	<br>
-		<br>
+    <h2 class="w3-wide">SMILE</h2>
+    <p class="w3-opacity"><i>2018-2021</i></p>
+    <p class="w3-justify">I started participating in SMILE (Science and Math Investigative Learning Experience) my sophomore year. <a href="https://web.uri.edu/smile/">SMILE</a> is a pre-college science, technology, engineering, and math-based after-school program run through the University of Rhode Island. In SMILE I got to help design and build monthly projects that combined art, design, and communication to find creative and innovative solutions in a variety of problems. As a member of SMILE I participated in an annual event at the University of Rhode Island where we work with URI students and professors to apply a variety of STEM topics to a central project. </p>
+</div>
 
 	   <table class="centerTable">
 	<tr align="center">
 	<td>
 
 
-<center><p>Click picture below to view</p></center>
-        <a href="https://sites.google.com/view/olin-lemons/home" target="_blank" class="w3-bar-item w3-button"><embed src="24lemons1.png" width="800px" height="450px" />
 
+        <embed src="sp1.png" width="300px" height="450px" />
 </td>
+<td>
+       
+
+        <embed src="sp2.png" width="600px" height="350px" />
+		</td>
 
 	 
      </tr>
  </table>
+ 
+ <table class="centerTable">
+     <tr align="center-right">
+<td align="center">
+       <embed src="sp3.png" width="700px" height="400px" />
 
+     <td>
 
+	     
+	 </table>
 
 </body>
 </html>

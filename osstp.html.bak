@@ -123,12 +123,12 @@ body {font-family: "Lato", sans-serif}
 
 
 <center><p>Old OSSTP Website</p></center>
-        <a href="https://sites.google.com/view/osstp-group/" target="_blank" class="w3-bar-item w3-button"><embed src="osstp1.PNG" width="700px" height="450px" /></a>
+        <a href="https://sites.google.com/view/osstp-group/" target="_blank" class="w3-bar-item w3-button"><embed src="osstp1.png" width="700px" height="450px" /></a>
 </td>
 <td>
        
 <center><p>New Website (in development)</p></center>
-        <embed src="osstp2.PNG" width="700px" height="450px" />
+        <embed src="osstp2.png" width="700px" height="450px" />
 		</td>
 
 	 

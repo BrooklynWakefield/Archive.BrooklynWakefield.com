@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--24lemons-->
+<!--word-->
 <html lang="en">
 <title>Brooklyn Wakefield's Digital Portfolio</title>
 <meta charset="UTF-8">
@@ -104,37 +104,34 @@ body {font-family: "Lato", sans-serif}
 
 
 
+
+
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <h2 class="w3-wide">24 Hours of Lemons</h2>
-    <p class="w3-opacity"><i>2021 - Present</i></p>
-    <p class="w3-center">Joining the Olin 24 Hours of Lemons Team was not the traditional experience students get on an Olin project team. Unlike many of Olin's well-established and funded clubs, the Lemons team is a newly established club with a small group of people with shared interests in working with vehicles. My first experience with Lemons was being tasked with completely gutting a Volkswagon golf to get it ready to race, and I later learned how to do an oil change. As someone who came in knowing little about cars, Lemon's hands-on and informal setting allows for me to learn more about vehicles in a collaborative and welcoming environment while also having fun. 
-	    
-	    <br>
-		 <br>
-The lemons team is currently working with the Olin administration to fit the club into the guidelines for project teams set forward by the school. While working towards establishing Lemons as an official Olin Club, I created a mockup website shown below. </p>
+    <h2 class="w3-wide">Word</h2>
+    <p class="w3-opacity"><i>AOIT 1</i></p>
+    <p class="w3-center">Throughout AOIT 1, we
+learned about Microsoft Word. 
+We wrote thank you letters to the staff of businesses we went on field trips to. Also my sophomore year I had to write
+a research paper for the George Washington Letter competition. All papers are in 
+MLA format. Being able to write efficiently and being familiar with
+MLA format is an important skill I use in every class.</p>
     </div>   
-
-
-
-
-<br>
-	<br>
-		<br>
-
-	   <table class="centerTable">
-	<tr align="center">
+   <table class="centerTable">
+	<tr>
 	<td>
 
 
-<center><p>Click picture below to view</p></center>
-        <a href="https://sites.google.com/view/olin-lemons/home" target="_blank" class="w3-bar-item w3-button"><embed src="24lemons1.png" width="800px" height="450px" />
-
+        <center><p>Thank You Letter</p></center>
+        <embed src="thankyouletter.pdf" width="600px" height="700px" />
 </td>
+<td>
+       <center><p>Washington Letter Essay</p></center>
+        <embed src="word2.pdf" width="600px" height="700px" />
+		</td>
 
 	 
      </tr>
- </table>
-
+	 </table>
 
 
 </body>
